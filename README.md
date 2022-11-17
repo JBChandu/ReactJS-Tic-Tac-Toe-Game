@@ -16,7 +16,7 @@
 - Learned about adding animation using Animate-CSS.
 
 
-**Deployed Link :** [Link]()
+**Deployed Link :** [Link](https://reactjs-tictactoe-game.netlify.app/)
 >### Preview :
 
 ![Homepage screenshot-1](preview.png)
