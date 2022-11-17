@@ -1,0 +1,32 @@
+body {
+background-image: url("https://www.justwords.in/wp-content/uploads/2016/01/free-stock-photos-websites.jpg");
+background-size: cover;
+background-repeat:   no-repeat;
+background-position: center ;
+background-attachment: fixed;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 15px;
+}
+
+.box {
+  width: auto;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icons {
+  font-size: 35px;
+  color: #000000;
+}
+
+.card-body:hover{
+  background:#098765;
+  transform: rotate(177deg);
+  transition-delay: 0.1s;
+  border-radius: 15px;
+}
